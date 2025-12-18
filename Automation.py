@@ -17,7 +17,7 @@ import paramiko
 from paramiko.ssh_exception import  AuthenticationException
 
 
-
+print("Hello World")
 
 class NewAutomationMenu:
     def __init__(self):
